@@ -55,6 +55,8 @@ h4{
     text-align: center;
     color: rgb(64, 81, 78);
     padding-bottom: 20px;
+    width: 30%;
+    margin: auto;
     
 }
 .bottom-cloud{
@@ -103,6 +105,7 @@ p{
     color: rgb(64, 81, 78);
     padding-bottom: 20px;
     letter-spacing: 2px;
+    margin: auto;
 }
 
 hr {
@@ -116,6 +119,8 @@ hr {
     text-align: center;
     margin-bottom: 40px;
     margin-top: 0px;
+    margin: auto;
+    padding-bottom:  30px; ;
 }
 .bottom-container{
     padding: 20px;
