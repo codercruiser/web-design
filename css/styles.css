@@ -99,13 +99,14 @@ p{
     text-align:center;
 }
 .software-text{
-    font-weight: normal;
+       font-weight: normal;
     margin-bottom: 10px;
-    line-height: 1px;
+    line-height: 0.1px;
     color: rgb(64, 81, 78);
     padding-bottom: 20px;
     letter-spacing: 1px;
     margin: auto;
+    margin-right: 70px;
 }
 
 hr {
