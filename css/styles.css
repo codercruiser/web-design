@@ -84,8 +84,9 @@ h4{
     padding-bottom: 20px;
 }
 .software-img{
-    width: 50%;
+    width: 25%;
     padding: 10px;
+    margin-bottom: 100px;
 }
 .skill-row{
     display: flex;
@@ -99,13 +100,12 @@ p{
     text-align:center;
 }
 .software-text{
-       font-weight: normal;
-    margin-bottom: 10px;
+    font-weight: normal;
     line-height: 0.1px;
     color: rgb(64, 81, 78);
     padding-bottom: 20px;
     letter-spacing: 1px;
-    margin: auto;
+    margin: 45px 50px 30px 70px;
     margin-right: 70px;
 }
 
@@ -154,6 +154,322 @@ a{
     font-family: 'Montserrat', sans-serif;
 }
 a:hover{
+    color: #ffffff;
+    transition: 0.2s;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+span{
+    color: goldenrod;
+    margin: 0;
+}
+.pra{
+    font-size: 1.2rem;
+    line-height: 2px;
+}
+h2{
+    color: #66bfbf;
+    margin: 20px auto 20px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    text-align: center;
+    
+}
+h3{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.6rem;
+    font-weight: normal;
+    text-align: center;
+}
+h4{
+    display: flex;
+    color: rgb(17, 153, 158);
+    display: block;
+    font-size: 1.17em;
+    font-weight: bold;
+    margin-top: 0;
+    padding-bottom: 20px;
+
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 80px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.profile{
+    margin-top: 100px;
+}
+.profile p{
+    font-weight: normal;
+    text-align: center;
+    color: rgb(64, 81, 78);
+    padding-bottom: 20px;
+    width: 30%;
+    margin: auto;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.skill-img{
+    display: flex;
+    width: 60%;
+    height: 6rem;
+    background:#e4f9f5;
+    border-radius: 3%;
+    color: aliceblue;
+}
+.skills{
+
+    padding: 25px 50px 25px 50px;
+}
+.skills-head{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.1rem;
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+.software-img{
+    width: 25%;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+.skill-row{
+    display: flex;
+    width: 1130px;
+    max-width: 100%;
+}
+p{
+    font-weight: lighter;
+    font-size: 85%;
+    line-height: 140%;
+    text-align:center;
+}
+.software-text{
+    font-weight: normal;
+    line-height: 0.1px;
+    color: rgb(64, 81, 78);
+    padding-bottom: 20px;
+    letter-spacing: 1px;
+    margin: 45px 50px 30px 70px;
+    margin-right: 70px;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    margin-bottom: 10px;
+}
+.contact-me p{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 0px;
+    margin: auto;
+    padding-bottom:  30px; ;
+}
+.bottom-container{
+    padding: 20px;
+    background-color:#66bfbf ;
+    margin-top: 35px;
+}
+.bottom-container p{
+    color: #d7f1f1;
+}
+.footer-link{
+    text-decoration: none;
+    display:inline-flexbox;
+    margin: 10px 20px;
+    color: #11999e;
+
+}
+.btn{
+    color: #d7f1f1;
+    background-color:#11999e ;
+    border-radius: 20%;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.btn:hover{
+    background-color: #11cdd4;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+    color: #ffffff;
+    transition: 0.2s;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+span{
+    color: goldenrod;
+    margin: 0;
+}
+.pra{
+    font-size: 1.2rem;
+    line-height: 2px;
+}
+h2{
+    color: #66bfbf;
+    margin: 20px auto 20px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    text-align: center;
+    
+}
+h3{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.6rem;
+    font-weight: normal;
+    text-align: center;
+}
+h4{
+    display: flex;
+    color: rgb(17, 153, 158);
+    display: block;
+    font-size: 1.17em;
+    font-weight: bold;
+    margin-top: 0;
+    padding-bottom: 20px;
+
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 80px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.profile{
+    margin-top: 100px;
+}
+.profile p{
+    font-weight: normal;
+    text-align: center;
+    color: rgb(64, 81, 78);
+    padding-bottom: 20px;
+    width: 30%;
+    margin: auto;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.skill-img{
+    display: flex;
+    width: 60%;
+    height: 6rem;
+    background:#e4f9f5;
+    border-radius: 3%;
+    color: aliceblue;
+}
+.skills{
+
+    padding: 25px 50px 25px 50px;
+}
+.skills-head{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.1rem;
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+.software-img{
+    width: 25%;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+.skill-row{
+    display: flex;
+    width: 1130px;
+    max-width: 100%;
+}
+p{
+    font-weight: lighter;
+    font-size: 85%;
+    line-height: 140%;
+    text-align:center;
+}
+.software-text{
+    font-weight: normal;
+    line-height: 0.1px;
+    color: rgb(64, 81, 78);
+    padding-bottom: 20px;
+    letter-spacing: 1px;
+    margin: 45px 50px 30px 70px;
+    margin-right: 70px;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    margin-bottom: 10px;
+}
+.contact-me p{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 0px;
+    margin: auto;
+    padding-bottom:  30px; ;
+}
+.bottom-container{
+    padding: 20px;
+    background-color:#66bfbf ;
+    margin-top: 35px;
+}
+.bottom-container p{
+    color: #d7f1f1;
+}
+.footer-link{
+    text-decoration: none;
+    display:inline-flexbox;
+    margin: 10px 20px;
+    color: #11999e;
+
+}
+.btn{
+    color: #d7f1f1;
+    background-color:#11999e ;
+    border-radius: 20%;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.btn: hover{
+    background-color: #11cdd4;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+}
+a: hover{
     color: #ffffff;
     transition: 0.2s;
 }
